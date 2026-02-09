@@ -135,7 +135,7 @@ Université Côte d’Azur
 Page  
 https://zeevweizmann.github.io/Feature-Extraction-with-Video-Swin-Transformer/
 
-sSource Code  
+Code  
 https://github.com/ZeevWeizmann/Feature-Extraction-with-Video-Swin-Transformer
 
 ---
